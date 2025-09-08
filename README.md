@@ -15,3 +15,5 @@ The Maya Store wants to create an annual sales report for 2025. So that, the own
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
+
+-Dashboard Interaction <a href="https://github.com/Rwitaban-Saha/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-09%20043313.png">View Dashboard</a>
