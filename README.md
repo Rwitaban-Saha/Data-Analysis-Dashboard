@@ -18,7 +18,8 @@ The Maya Store wants to create an annual sales report for 2025. So that, the own
 3. Use the slicers on the right to filter by gender, age group, etc.  
 4. Observe how charts adjust for dynamic analysis.
 
--Dashboard Interaction <a href="https://github.com/Rwitaban-Saha/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-09%20043313.png">View Dashboard</a>
+## Dashboard Preview
+<a href= "https://github.com/Rwitaban-Saha/Data-Analysis-Dashboard/blob/main/Dashboard_Preview.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
