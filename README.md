@@ -1,20 +1,22 @@
-# Maya-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Maya Store Sales Dashboard (MS Excel)
 ## Project Objective
 The Maya Store wants to create an annual sales report for 2025. So that, the owner of the Maya store can understand their customers and grow more sales in 2026 & 2027.
 
 ## Dataset used
 - <a href="https://github.com/Rwitaban-Saha/Data-Analysis-Dashboard/blob/main/Maya_Sales_Report.xlsx">Dataset</a>
 
-## Questions (KPIs)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
+## Key Questions and KPIs
+- Monthly sales vs. orders
+- Top states
+- Gender & age breakdown
+- Channel performance
+- Order status distribution
+
+## How to Use
+1. Open `Maya_Store_Sales_Dashboard.xlsx` in Excel 2016 or newer  
+2. Enable editing / content if prompted  
+3. Use the slicers on the right to filter by gender, age group, etc.  
+4. Observe how charts adjust for dynamic analysis.
 
 -Dashboard Interaction <a href="https://github.com/Rwitaban-Saha/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-09%20043313.png">View Dashboard</a>
 
